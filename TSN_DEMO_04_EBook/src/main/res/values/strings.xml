@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Практическая работа №4</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="name_program">Справочный учебник о погоде</string>
+
+    <string name="resource_directory">file:///android_asset/HTML/</string>
+
+    <string name="action_settings">Выход</string>
+    <string name="view">Читать</string>
+    <string name="fullsizeFont">Большой шрифт</string>
+    <string name="bonus">Бонус</string>
+    <string name="lit">Литература</string>
+    <string name="autor">Агитаев И. А.</string>
+
+    <string name="additional">Почитать</string>
+    <string name="error">Ошибка(</string>
+
+    <string name="prism_break">https://ru.wikipedia.org/wiki/Прогноз_погоды</string>
+    <string name="spy_soft">https://quality21.ru/rol-pogody-v-zhizni-cheloveka/</string>
+    <string name="securitylab">https://archive.ipcc.ch/publications_and_data/ar4/wg1/ru/faq-2-1.html#:~:text=Деятельность%20человека%20способствует%20изменению%20климата,в%20атмосферу%20выбрасывается%20углекислый%20газ.</string>
+    <string name="laws">Законы</string>
+    <string name="laws_kz_l1">РК: оПДиИЗ</string>
+    <string name="laws_ru_l1">РФ: оПД</string>
+    <string name="communicate">Обратная связь</string>
+    <string name="send_mail">Написать отзыв</string>
+
+    <string name="email">colesattac@gmail.com@gmail.com</string>
+    <string name="subject">Предложения по программе</string>
+    <string name="textmail">Здравствуйте!</string>
+    <string name="sending_letter">Отправить письмо автору</string>
+    <string name="no_installed_email_client">Нет установленного почтового клиента</string>
+
+    <string name="search_hint">Поиск</string>
+    <string name="of">из</string>
+    <string name="not_found">увы…</string>
+
+    <string name="mysearch">ВКЛ. ПОИСК</string>
+
+</resources>

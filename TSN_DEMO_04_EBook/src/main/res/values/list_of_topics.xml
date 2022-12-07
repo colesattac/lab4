@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec00">1. История изучения погоды</string>
+    <string name="lec01">2. Как составляют прогноз погоды</string>
+    <string name="lec11">3. Погода</string>
+    <string name="lec15">4. Погода и её изменения</string>
+    <string name="prog">Сервисы с прогнозом погоды</string>
+
+</resources>

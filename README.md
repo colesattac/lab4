@@ -7,22 +7,22 @@
 Боковое меню электронного учебника.
 
 
-![screenshot1]
+![screenshot1.png]
 
 
 Бонус: 5 точных сервисов с прогнозом погоды.
 
 
-![screenshot2]
+![screenshot2.png]
 
 
 Использованная литература.
 
 
-![screenshot3]
+![screenshot3.png]
 
 
 Отправка письма автору
 
 
-![screenshot4]
+![screenshot4.png]
